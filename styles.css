@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
-    color: #333;
+    background-color: rgba(247, 233, 231, 0.194);
+    color: black;
 }
 
 header {
-    background-color: #333;
+    background-color:#53539bc5;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -28,22 +28,20 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: black;
     text-decoration: none;
     font-weight: bold;
 }
 
 footer {
     text-align: center;
-    background-color: #333;
-    color: white;
+    background-color: #53539bc5;
+    color: black;
     padding: 10px;
     position: fixed;
     width: 100%;
     bottom: 0;
 }
-
-/* Specific Page Styling */
 section {
     padding: 20px;
     margin: 20px;
@@ -56,15 +54,13 @@ ul {
 
 h2 {
     color: #333;
-    background-color: gray;
+    background-color: lightgrey;
 }
-
-/* Add a simple hover effect to the links */
 nav ul li a:hover {
     text-decoration: underline;
     color: #f39c12;
 }
 h1{
-    background-color: rgb(101, 86, 145);
-    color: black;
+    background-color:rgb(14, 15, 90);
+    color: white;
 }
